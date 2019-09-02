@@ -1,0 +1,287 @@
+{
+  "keys": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+      "port": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+      "user": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+      "password": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+      "database": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js"
+    },
+    "app": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+    "agent": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+    "default": {
+      "database": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "view": {
+    "defaultViewEngine": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js",
+    "mapping": {
+      ".html": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/config/config.default.js"
+    },
+    "root": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "type": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "main": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "egg-view-assets": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "level": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/d/node/学习aaaaaa/跨域/demo-egg/node_modules/egg/config/config.default.js"
+}

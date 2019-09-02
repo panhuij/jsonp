@@ -1,0 +1,95 @@
+2019-08-14 11:00:39,965 ERROR 4887 [-/127.0.0.1/-/5ms GET /] nodejs.AssertionError: Can't find viewEngine for /Volumes/d/node/日考/6/app/view/seek.html
+    at ContextView.[contextView#render] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:66:5)
+    at async SeekController.index (/Volumes/d/node/日考/6/app/controller/seek.js:5:8)
+    at async /Volumes/d/node/日考/6/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/d/node/日考/6/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/d/node/日考/6/node_modules/koa-bodyparser/index.js:86:5)
+    at async /Volumes/d/node/日考/6/node_modules/koa-static-cache/index.js:53:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 4887
+hostname: pan.local
+
+2019-08-14 11:02:39,088 ERROR 4898 [-/127.0.0.1/-/18ms GET /] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:69:39)
+    at async SeekController.index (/Volumes/d/node/日考/6/app/controller/seek.js:5:8)
+    at async /Volumes/d/node/日考/6/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/d/node/日考/6/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/d/node/日考/6/node_modules/koa-bodyparser/index.js:86:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4898
+hostname: pan.local
+
+2019-08-14 11:02:47,623 ERROR 4898 [-/127.0.0.1/-/4ms GET /] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:69:39)
+    at async SeekController.index (/Volumes/d/node/日考/6/app/controller/seek.js:5:8)
+    at async /Volumes/d/node/日考/6/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/d/node/日考/6/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/d/node/日考/6/node_modules/koa-bodyparser/index.js:86:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4898
+hostname: pan.local
+
+2019-08-14 11:03:09,009 ERROR 4902 [-/127.0.0.1/-/16ms GET /] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:69:39)
+    at async SeekController.index (/Volumes/d/node/日考/6/app/controller/seek.js:5:8)
+    at async /Volumes/d/node/日考/6/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/d/node/日考/6/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/d/node/日考/6/node_modules/koa-bodyparser/index.js:86:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4902
+hostname: pan.local
+
+2019-08-14 11:03:10,193 ERROR 4902 [-/127.0.0.1/-/3ms GET /] nodejs.AssertionError: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:88:5)
+    at ContextView.[contextView#render] (/Volumes/d/node/日考/6/node_modules/egg-view/lib/context_view.js:69:39)
+    at async SeekController.index (/Volumes/d/node/日考/6/app/controller/seek.js:5:8)
+    at async /Volumes/d/node/日考/6/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/d/node/日考/6/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Volumes/d/node/日考/6/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Volumes/d/node/日考/6/node_modules/koa-bodyparser/index.js:86:5)
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4902
+hostname: pan.local
+
